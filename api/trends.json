@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T20:19:54.224916+08:00",
-  "total_titles_processed": 1869,
+  "generated_at": "2025-11-06T21:26:14.987440+08:00",
+  "total_titles_processed": 1970,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普：美国第一，俄罗斯第二，中国第三",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时12分 ~ 20时19分]"
+          "appearance_count": 12,
+          "time_info": "[13时12分 ~ 21时26分]"
         },
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时46分 ~ 20时19分]"
+          "appearance_count": 18,
+          "time_info": "[08时46分 ~ 21时26分]"
         },
         {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
@@ -161,6 +161,17 @@
           "time_info": "[01时11分 ~ 07时11分]"
         },
         {
+          "title": "特朗普为什么总是针对南非？",
+          "url": "https://news.ifeng.com/c/8o3ygttojoa",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时19分 ~ 21时26分]"
+        },
+        {
           "title": "特朗普提议结束“冗长辩论”尽快推动政府重启，共和党人不干了！",
           "url": "https://news.ifeng.com/c/8o2w70KHTf3",
           "source": "凤凰网",
@@ -182,17 +193,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
-        },
-        {
-          "title": "特朗普为什么总是针对南非？",
-          "url": "https://news.ifeng.com/c/8o3ygttojoa",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时19分"
         },
         {
           "title": "为结束政府“停摆”美国会民主党领袖呼吁特朗普开始会谈",
@@ -237,6 +237,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
+        },
+        {
+          "title": "市场预计最高法院维持特朗普关税的概率仅剩30% 为什么说这不是什么好事",
+          "url": "https://wallstreetcn.com/premium/articles/3758757?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时14分 ~ 21时26分]"
         },
         {
           "title": "提醒：美国最高法院针对特朗普关税官司的辩论环节结束。",
@@ -350,18 +362,6 @@
           "time_info": "[03时10分 ~ 05时10分]"
         },
         {
-          "title": "市场预计最高法院维持特朗普关税的概率仅剩30% 为什么说这不是什么好事",
-          "url": "https://wallstreetcn.com/premium/articles/3758757?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 19时10分]"
-        },
-        {
           "title": "美国总统特朗普称赞加密货币，称其减轻了美元压力。",
           "url": "https://flash.jin10.com/detail/20251106031759230800",
           "source": "金十数据",
@@ -409,6 +409,17 @@
           "time_info": "[17时13分 ~ 17时14分]"
         },
         {
+          "title": "民主党接连胜选之后 特朗普要求立即通过支出法案以结束停摆",
+          "url": "https://www.cls.cn/detail/2192934",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 21时26分]"
+        },
+        {
           "title": "美国总统特朗普考虑11月6日宣布减肥药意见。 他将与礼来制药、诺和诺德宣布降价。 在某些情况下，减肥药售价可能会低于150美元。（CBS）",
           "url": "https://wallstreetcn.com/livenews/3000056",
           "source": "华尔街见闻-快讯",
@@ -430,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
+        },
+        {
+          "title": "美国贸易代表格里尔：美国总统特朗普从未声称自己拥有无限制的关税权力。",
+          "url": "https://flash.jin10.com/detail/20251106210925726800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "市场消息：特朗普提名的美国航空航天局局长贾里德·艾萨克曼提议最早于明年发射一次无人火星任务。",
@@ -680,7 +702,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         },
@@ -1024,7 +1046,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "谷歌(GOOG.O)：（即将宣布的在德国）投资将涵盖基础设施、数据中心以及利用可再生能源和余热的项目。",
@@ -1036,6 +1058,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
+        },
+        {
+          "title": "据报道，谷歌正在推出其最强大的AI芯片Ironwood，未来几周将全面上市。",
+          "url": "https://wallstreetcn.com/livenews/3000596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "谷歌：Gemini深度搜索现已可连接Gmail、文档、云端硬盘甚至聊天。",
@@ -1058,6 +1091,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
+        },
+        {
+          "title": "谷歌将在未来几周全面上市其最强大的AI芯片Ironwood",
+          "url": "https://flash.jin10.com/detail/20251106211437983800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "报道：谷歌下周将宣布其在德国有史以来最大投资计划",
@@ -1154,6 +1198,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时42分 ~ 12时17分]"
+        },
+        {
+          "title": "据CNBC：谷歌(GOOG.O)正在推出其最强大的AI芯片Ironwood，未来几周将全面上市。",
+          "url": "https://flash.jin10.com/detail/20251106211009167800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "谷歌：即日起在美国推出以下功能——在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮。",
@@ -1360,6 +1415,18 @@
           "time_info": "[13时12分 ~ 14时17分]"
         },
         {
+          "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时19分 ~ 21时26分]"
+        },
+        {
           "title": "非洲股市收盘播报｜南非股指收涨约1.4%，追随金价涨向3990美元的表现",
           "url": "https://wallstreetcn.com/livenews/3000006",
           "source": "华尔街见闻-快讯",
@@ -1381,17 +1448,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
-        },
-        {
-          "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时19分"
         },
         {
           "title": "中信证券：展望明年，预计金价主线仍是上行",
@@ -1453,8 +1509,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时46分 ~ 20时19分]"
+          "appearance_count": 18,
+          "time_info": "[08时46分 ~ 21时26分]"
         },
         {
           "title": "美债收益率继续上涨，10年期收益率日内涨6.6个基点，报4.157%。",
