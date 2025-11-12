@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T17:15:00.161894+08:00",
-  "total_titles_processed": 1537,
+  "generated_at": "2025-11-12T18:13:22.292223+08:00",
+  "total_titles_processed": 1617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -93,8 +93,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时12分 ~ 17时15分]"
+          "appearance_count": 24,
+          "time_info": "[00时12分 ~ 18时13分]"
         },
         {
           "title": "美主播阴阳怪气中国人遭特朗普反驳",
@@ -162,6 +162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-12）",
+          "url": "https://flash.jin10.com/detail/20251112175252982800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "特朗普：将降低部分咖啡关税。",
@@ -283,6 +294,18 @@
           "time_info": "[10时26分 ~ 12时15分]"
         },
         {
+          "title": "特朗普为何拒为高市涉台谬论撑腰",
+          "url": "https://www.toutiao.com/trending/7571742416873459251/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 18时13分]"
+        },
+        {
           "title": "美国加利福利亚州长Newsom：总统特朗普的海上石油计划将让加州环保环境“到达时已死亡”（DOA）。",
           "url": "https://wallstreetcn.com/livenews/3002928",
           "source": "华尔街见闻-快讯",
@@ -293,17 +316,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时15分 ~ 03时10分]"
-        },
-        {
-          "title": "特朗普为何拒为高市涉台谬论撑腰",
-          "url": "https://www.toutiao.com/trending/7571742416873459251/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 17时15分]"
         },
         {
           "title": "特朗普发2000美元关税红包但预算说不",
@@ -634,11 +646,12 @@
           "url": "https://wallstreetcn.com/livenews/3003320",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 18时13分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
@@ -772,8 +785,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时12分 ~ 17时15分]"
+          "appearance_count": 24,
+          "time_info": "[00时12分 ~ 18时13分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
@@ -1003,7 +1016,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价在美国就业数据发布后出现一波V形反转，纽约期银涨1.5%，钯金涨超2.2%",
@@ -1077,13 +1090,24 @@
           "time_info": "[00时12分 ~ 00时13分]"
         },
         {
+          "title": "受美瑞贸易协议希望和黄金价格提振 瑞士法郎上涨",
+          "url": "https://flash.jin10.com/detail/20251112172706490800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "金十图示：2025年11月12日（周三）上海金午盘价为943.52元/克，较国际金价(942.06元/克)，高1.46元/克",
           "url": "https://flash.jin10.com/detail/20251112161245995800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         }
@@ -1108,6 +1132,18 @@
           "time_info": "[14时16分 ~ 16时15分]"
         },
         {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://www.toutiao.com/trending/7571465266493702187/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 18时13分]"
+        },
+        {
           "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
           "url": "https://wallstreetcn.com/livenews/3003176",
           "source": "华尔街见闻-快讯",
@@ -1125,22 +1161,12 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时15分 ~ 17时15分]"
-        },
-        {
-          "title": "前DeepSeek研究员罗福莉已加入小米",
-          "url": "https://www.toutiao.com/trending/7571465266493702187/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 17时15分]"
+          "appearance_count": 4,
+          "time_info": "[16时15分 ~ 18时13分]"
         }
       ]
     },
@@ -1158,8 +1184,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时47分 ~ 17时15分]"
+          "appearance_count": 14,
+          "time_info": "[08时47分 ~ 18时13分]"
         },
         {
           "title": "分析师：预测十年期美债收益率将在3.6%至5%区间波动",
@@ -1168,7 +1194,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
