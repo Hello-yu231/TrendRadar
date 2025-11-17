@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T12:17:59.522746+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2025-11-17T13:12:04.896255+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
@@ -45,6 +45,21 @@
           "time_info": "[00时10分 ~ 07时09分]"
         },
         {
+          "title": "曝特朗普与昔日得力干将决裂",
+          "url": "https://www.toutiao.com/trending/7573470510160399923/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            19,
+            9,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时48分 ~ 13时12分]"
+        },
+        {
           "title": "据AXIOS网站：以色列希望美国总统特朗普将向沙特出售F-35的条件与以色列实现关系正常化挂钩。",
           "url": "https://flash.jin10.com/detail/20251116223106128800",
           "source": "金十数据",
@@ -69,20 +84,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
-        },
-        {
-          "title": "曝特朗普与昔日得力干将决裂",
-          "url": "https://www.toutiao.com/trending/7573470510160399923/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            19,
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时48分 ~ 12时17分]"
         },
         {
           "title": "特朗普首席贸易谈判代表警告欧盟：欧盟对美国的关税仍然过高",
@@ -132,6 +133,19 @@
           "time_info": "[08时48分 ~ 11时43分]"
         },
         {
+          "title": "特朗普不到两个月内完成超175笔投资",
+          "url": "https://www.toutiao.com/trending/7573491698903289386/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 13时12分]"
+        },
+        {
           "title": "特朗普：可能与委内瑞拉总统进行对话",
           "url": "https://news.ifeng.com/c/8oLf4PqxV5b",
           "source": "凤凰网",
@@ -143,16 +157,15 @@
           "time_info": "[10时27分 ~ 11时43分]"
         },
         {
-          "title": "特朗普不到两个月内完成超175笔投资",
-          "url": "https://www.toutiao.com/trending/7573491698903289386/",
-          "source": "今日头条",
+          "title": "软硬兼施？特朗普：可能与委内瑞拉总统进行对话",
+          "url": "https://mil.ifeng.com/c/8oLf4PqxV5b",
+          "source": "凤凰网",
           "ranks": [
-            23,
-            22
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时17分]"
+          "appearance_count": 3,
+          "time_info": "[12时17分 ~ 13时12分]"
         },
         {
           "title": "现货黄金抹去日内逾20美元的涨幅，现报4084.5美元/盎司。特朗普此前透露，可能会与委内瑞拉总统马杜罗进行讨论。",
@@ -166,24 +179,13 @@
           "time_info": "08时48分"
         },
         {
-          "title": "软硬兼施？特朗普：可能与委内瑞拉总统进行对话",
-          "url": "https://mil.ifeng.com/c/8oLf4PqxV5b",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
           "title": "特朗普态度转变？支持投票公开爱泼斯坦相关文件",
           "url": "https://flash.jin10.com/detail/20251117113954366800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -239,8 +241,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时10分 ~ 12时17分]"
+          "appearance_count": 19,
+          "time_info": "[00时10分 ~ 13时12分]"
         },
         {
           "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
@@ -261,7 +263,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         }
