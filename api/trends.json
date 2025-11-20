@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T07:10:46.282180+08:00",
-  "total_titles_processed": 704,
+  "generated_at": "2025-11-20T08:45:37.897419+08:00",
+  "total_titles_processed": 846,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时45分]"
         },
         {
           "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
@@ -109,7 +110,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -230,6 +231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
+        },
+        {
+          "title": "特朗普：应起诉鲍威尔",
+          "url": "https://news.ifeng.com/c/8oQBc00t0BE",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
         },
         {
           "title": "英国外交部发言人：英国支持特朗普总统希望结束俄乌冲突愿望，只要俄罗斯撤回军队、停止其非法入侵，明天就能做到这一点。",
@@ -397,6 +409,17 @@
           "time_info": "02时15分"
         },
         {
+          "title": "特朗普政府宣布拆解教育部计划",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E6%8B%86%E8%A7%A3%E6%95%99%E8%82%B2%E9%83%A8%E8%AE%A1%E5%88%92",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
+        },
+        {
           "title": "特朗普：美沙投资论坛签署2700亿美元巨额协议",
           "url": "https://flash.jin10.com/detail/20251120015953434800",
           "source": "金十数据",
@@ -474,6 +497,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "美媒：特朗普考虑最早于周五签署有关人工智能的行政令",
+          "url": "https://flash.jin10.com/detail/20251120073946574800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
+        },
+        {
           "title": "美国总统特朗普：美国与沙特阿拉伯将联合建设液化天然气基础设施 。",
           "url": "https://flash.jin10.com/detail/20251120015434948800",
           "source": "金十数据",
@@ -483,6 +517,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "特朗普考虑最早周五签署有关AI的行政令。（The Verge）",
+          "url": "https://wallstreetcn.com/livenews/3007479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
         },
         {
           "title": "美国总统特朗普告诉英伟达CEO黄仁勋：你完成了不错的工作。 如果黄仁勋感到高兴，我也会。",
@@ -499,7 +544,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
@@ -512,8 +557,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时45分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.34%，报296.82点。 纽约证交所ARCA金矿开采商指数收涨1.36%，报2151.78点，北京时间22:30美股开盘前持稳于2135点附近——一直维持微幅上涨状态，随扈跳空走高，22:37刷新日高至2193.46点，之后快速回吐这一波涨幅。",
@@ -525,6 +570,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        },
+        {
+          "title": "美股期货涨幅扩大，标普500指数期货现涨1.2%，纳斯达克100指数期货涨1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3007513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
+        },
+        {
+          "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
+          "url": "https://www.cls.cn/detail/2205612",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时10分 ~ 08时45分]"
+        },
+        {
+          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
         },
         {
           "title": "周三（11月19日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌2.72%，报90390美元。 CME以太币期货DCR主力合约跌4.35%，报2991.50美元，亚太午盘跌穿3000点关口——短时出现V形走势，美股尾盘再次出现V形走势——最低逼近2850美元。 美股加密货币与加密货币关联指数跌4.80%，报62.20点。 MarketVector数字资产100小盘指数自美股开盘以来跌0.82%，报18816.93点，盘初涨至19267.90点之后转跌，一度刷新日低至18354.73点。",
@@ -571,18 +651,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 02时15分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
-          "url": "https://www.cls.cn/detail/2205612",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时10分 ~ 07时10分]"
         },
         {
           "title": "摩根大通交易台：抄底美股正当其时 技术性洗盘可能已结束",
@@ -646,9 +714,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "美股三大指数收涨 英伟达财报超预期",
+          "url": "https://www.toutiao.com/trending/7574038650388860470/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
         },
         {
           "title": "金十图示：2025年11月19日（周三）热门中概股行情一览（美股盘中）",
@@ -698,7 +777,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -706,11 +785,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时45分]"
         },
         {
           "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
@@ -733,11 +813,12 @@
             6,
             4,
             5,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时45分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -751,8 +832,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时10分 ~ 07时10分]"
+          "appearance_count": 10,
+          "time_info": "[01时10分 ~ 08时45分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -760,11 +841,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时15分 ~ 07时10分]"
+          "appearance_count": 9,
+          "time_info": "[02时15分 ~ 08时45分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -776,6 +858,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "中信证券：Gemini 3 Pro多模态领先，关注应用新机会",
+          "url": "https://wallstreetcn.com/livenews/3007512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
         },
         {
           "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
@@ -848,7 +941,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
@@ -862,6 +955,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时14分 ~ 07时10分]"
+        },
+        {
+          "title": "与爱泼斯坦关系密切，美前财长萨默斯辞去OpenAI董事等职务",
+          "url": "https://flash.jin10.com/detail/20251120082746009800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
         },
         {
           "title": "萨默斯（Larry Summers）从Santander国际顾问委员会离职。 此前，萨默斯已经退出OpenAI的董事会。",
@@ -894,7 +998,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -908,6 +1012,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：对投资OpenAI 采取审慎态度。",
+          "url": "https://wallstreetcn.com/livenews/3007502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
         },
         {
           "title": "OpenAI：隆重推出GPT‑5.1-CODEX-MAX，今日已在CODEX上架。",
@@ -927,7 +1042,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         }
