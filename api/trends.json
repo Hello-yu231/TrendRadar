@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T19:08:25.879581+08:00",
-  "total_titles_processed": 1316,
+  "generated_at": "2025-11-22T20:17:11.000381+08:00",
+  "total_titles_processed": 1376,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,20 @@
           "time_info": "[13时10分 ~ 17时10分]"
         },
         {
+          "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
+          "url": "https://wallstreetcn.com/articles/3759912",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时09分 ~ 20时17分]"
+        },
+        {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
           "url": "https://m.thepaper.cn/newsDetail_forward_32019589",
           "source": "澎湃新闻",
@@ -29,8 +43,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时20分 ~ 19时08分]"
+          "appearance_count": 15,
+          "time_info": "[10时20分 ~ 20时17分]"
         },
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -43,6 +57,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[10时20分 ~ 18时10分]"
+        },
+        {
+          "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32018623",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时14分 ~ 20时17分]"
         },
         {
           "title": "特朗普批鲍威尔：想立刻炒了你",
@@ -58,20 +84,6 @@
           "time_info": "[00时12分 ~ 07时10分]"
         },
         {
-          "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
-          "url": "https://wallstreetcn.com/articles/3759912",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时09分 ~ 19时08分]"
-        },
-        {
           "title": "公开决裂后 特朗普铁杆盟友辞职",
           "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%BC%80%E5%86%B3%E8%A3%82%E5%90%8E+%E7%89%B9%E6%9C%97%E6%99%AE%E9%93%81%E6%9D%86%E7%9B%9F%E5%8F%8B%E8%BE%9E%E8%81%8C",
           "source": "百度热搜",
@@ -85,18 +97,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时10分 ~ 18时10分]"
-        },
-        {
-          "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32018623",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时14分 ~ 19时08分]"
         },
         {
           "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
@@ -396,6 +396,18 @@
           "time_info": "[18时09分 ~ 19时08分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-22）",
+          "url": "https://flash.jin10.com/detail/20251122182640033800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 20时17分]"
+        },
+        {
           "title": "美国总统特朗普：我并没有向民主党议员发出“死亡/死刑威胁”。",
           "url": "https://wallstreetcn.com/livenews/3008796",
           "source": "华尔街见闻-快讯",
@@ -430,6 +442,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时13分 ~ 01时09分]"
+        },
+        {
+          "title": "据俄新社：俄罗斯总统普京与美国总统特朗普再次会晤已提上议程，一切皆有可能。",
+          "url": "https://flash.jin10.com/detail/20251122180507453800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 20时17分]"
         },
         {
           "title": "美联储12月降息投票陷“僵局” 被特朗普施压的库克或成关键一票",
@@ -477,17 +501,6 @@
           "time_info": "00时13分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-22）",
-          "url": "https://flash.jin10.com/detail/20251122182640033800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
           "title": "美国总统特朗普：不会取消对俄石油制裁。",
           "url": "https://flash.jin10.com/detail/20251121233951186800",
           "source": "金十数据",
@@ -530,17 +543,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
-        },
-        {
-          "title": "据俄新社：俄罗斯总统普京与美国总统特朗普再次会晤已提上议程，一切皆有可能。",
-          "url": "https://flash.jin10.com/detail/20251122180507453800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时08分"
         },
         {
           "title": "特朗普社媒帖子引发连锁威胁 民主党议员要求警察调查总统",
@@ -692,8 +694,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时09分 ~ 19时08分]"
+          "appearance_count": 18,
+          "time_info": "[07时09分 ~ 20时17分]"
         },
         {
           "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
@@ -768,6 +770,17 @@
           "time_info": "[08时44分 ~ 14时14分]"
         },
         {
+          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
+          "url": "https://wallstreetcn.com/articles/3759920",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时09分 ~ 20时17分]"
+        },
+        {
           "title": "美股半导体ETF跌约3.9%，英伟达大跌4.2%",
           "url": "https://wallstreetcn.com/livenews/3008802",
           "source": "华尔街见闻-快讯",
@@ -805,17 +818,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时10分 ~ 11时32分]"
-        },
-        {
-          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
-          "url": "https://wallstreetcn.com/articles/3759920",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时09分 ~ 19时08分]"
         },
         {
           "title": "美股深夜反弹 中国资产爆发",
@@ -945,7 +947,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
@@ -958,8 +960,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时20分 ~ 19时08分]"
+          "appearance_count": 15,
+          "time_info": "[10时20分 ~ 20时17分]"
         },
         {
           "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
@@ -1016,6 +1018,28 @@
           "time_info": "[02时15分 ~ 03时09分]"
         },
         {
+          "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
+          "url": "https://wallstreetcn.com/articles/3759931",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时16分 ~ 20时17分]"
+        },
+        {
+          "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
+          "url": "https://wallstreetcn.com/articles/3759917",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时16分 ~ 20时17分]"
+        },
+        {
           "title": "谷歌公司推出BigQuery AI。",
           "url": "https://wallstreetcn.com/livenews/3008826",
           "source": "华尔街见闻-快讯",
@@ -1066,7 +1090,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
