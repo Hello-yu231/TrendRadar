@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T19:09:31.292778+08:00",
-  "total_titles_processed": 1653,
+  "generated_at": "2025-11-28T20:19:32.402594+08:00",
+  "total_titles_processed": 1745,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时11分 ~ 19时09分]"
+          "appearance_count": 10,
+          "time_info": "[15时11分 ~ 20时19分]"
         },
         {
           "title": "特朗普称将暂停“第三世界国家”移民",
@@ -30,11 +30,12 @@
             2,
             1,
             12,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时16分 ~ 18时12分]"
+          "appearance_count": 11,
+          "time_info": "[14时16分 ~ 20时19分]"
         },
         {
           "title": "特朗普施压高市别在台湾问题上挑衅",
@@ -73,8 +74,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时25分 ~ 19时09分]"
+          "appearance_count": 12,
+          "time_info": "[10时25分 ~ 20时19分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -320,6 +321,17 @@
           "time_info": "14时17分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-28）",
+          "url": "https://flash.jin10.com/detail/20251128192525355800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "美国总统特朗普：正在解决F-35战机的维护问题。",
           "url": "https://flash.jin10.com/detail/20251128080533252800",
           "source": "金十数据",
@@ -381,7 +393,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
         },
@@ -392,7 +404,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
         },
@@ -414,7 +426,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
         },
@@ -641,8 +653,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时44分 ~ 19时09分]"
+          "appearance_count": 18,
+          "time_info": "[08时44分 ~ 20时19分]"
         },
         {
           "title": "新一轮牛市已在路上？华尔街纷纷给美股定下高目标价",
@@ -799,6 +811,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时39分 ~ 12时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "芝商所（CME）：交易平台BrokerTec美债期货已恢复交易，其他市场目前仍暂停交易。",
+          "url": "https://flash.jin10.com/detail/20251128190714411800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         }
       ]
     }
