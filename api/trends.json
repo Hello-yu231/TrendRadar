@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T15:12:15.661869+08:00",
-  "total_titles_processed": 1246,
+  "generated_at": "2025-11-28T16:16:10.933035+08:00",
+  "total_titles_processed": 1364,
   "failed_sources": [],
   "trends": [
     {
@@ -52,11 +52,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            1
+            1,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时16分 ~ 15时12分]"
+          "appearance_count": 6,
+          "time_info": "[14时16分 ~ 16时16分]"
         },
         {
           "title": "特朗普：将对委内瑞拉展开地面行动",
@@ -97,6 +98,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时25分 ~ 15时12分]"
+        },
+        {
+          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
+          "url": "https://www.cls.cn/detail/2213724",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时11分 ~ 16时16分]"
         },
         {
           "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
@@ -185,17 +198,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时25分 ~ 13时12分]"
-        },
-        {
-          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
-          "url": "https://www.cls.cn/detail/2213724",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 15时12分]"
         },
         {
           "title": "墨西哥总统辛鲍姆：如果去参加世界杯抽签，可能会考虑与特朗普会面。",
@@ -460,7 +462,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -471,7 +473,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         }
@@ -623,7 +625,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -654,8 +656,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时44分 ~ 15时12分]"
+          "appearance_count": 12,
+          "time_info": "[08时44分 ~ 16时16分]"
         },
         {
           "title": "提醒：美股周四休市，周五将提前三个小时收盘",
