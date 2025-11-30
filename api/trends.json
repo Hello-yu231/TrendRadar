@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T16:13:03.598717+08:00",
-  "total_titles_processed": 929,
+  "generated_at": "2025-11-30T17:10:14.496208+08:00",
+  "total_titles_processed": 971,
   "failed_sources": [],
   "trends": [
     {
@@ -132,6 +132,18 @@
           "time_info": "[00时11分 ~ 08时53分]"
         },
         {
+          "title": "“特朗普交易”遭重创",
+          "url": "https://wallstreetcn.com/articles/3760394",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时15分 ~ 17时10分]"
+        },
+        {
           "title": "美国总统特朗普：教育正在被带回美国，我们的军队和南部边境是有史以来最强大的。",
           "url": "https://flash.jin10.com/detail/20251129202621810800",
           "source": "金十数据",
@@ -163,18 +175,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时11分 ~ 07时10分]"
-        },
-        {
-          "title": "“特朗普交易”遭重创",
-          "url": "https://wallstreetcn.com/articles/3760394",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时15分 ~ 16时13分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -257,19 +257,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时11分 ~ 16时13分]"
+          "appearance_count": 23,
+          "time_info": "[00时11分 ~ 17时10分]"
         },
         {
           "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
           "url": "https://wallstreetcn.com/articles/3760398",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时12分 ~ 16时13分]"
+          "appearance_count": 4,
+          "time_info": "[16时12分 ~ 17时10分]"
         }
       ]
     },
@@ -301,8 +302,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时15分 ~ 16时13分]"
+          "appearance_count": 6,
+          "time_info": "[14时15分 ~ 17时10分]"
         }
       ]
     },
