@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T12:21:11.475088+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2025-12-05T13:11:51.963394+08:00",
+  "total_titles_processed": 1092,
   "failed_sources": [],
   "trends": [
     {
@@ -305,8 +305,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时47分 ~ 12时21分]"
+          "appearance_count": 7,
+          "time_info": "[08时47分 ~ 13时11分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.40%，报319.29点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.37%，报2284.55点；北京时间22:30美股开盘之前微跌、持稳于2270点上方，23:08刷新日低至2252.98点，之后快速转涨。",
@@ -479,8 +479,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时14分 ~ 12时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时14分 ~ 13时11分]"
         },
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -491,8 +491,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时47分 ~ 12时21分]"
+          "appearance_count": 7,
+          "time_info": "[08时47分 ~ 13时11分]"
         },
         {
           "title": "ICE美元指数涨美国10年期国债收益率涨4.26个基点，报4.1059%，全天持续震荡上行。 两年期美债收益率涨4.33个基点，报3.5268%；30年期美债收益率涨3.39个基点，报4.7647%。",
@@ -630,11 +630,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32104325",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 13时11分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队海军在波斯湾等水域举行军演",
