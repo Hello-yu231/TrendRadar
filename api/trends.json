@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T11:50:35.086538+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2025-12-10T12:32:09.847285+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -41,11 +41,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 11时50分]"
+          "appearance_count": 18,
+          "time_info": "[00时14分 ~ 12时32分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -60,6 +61,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时14分 ~ 08时49分]"
+        },
+        {
+          "title": "特朗普现在很焦虑",
+          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时49分 ~ 12时32分]"
         },
         {
           "title": "美国总统特朗普宣布，允许英伟达向中国出售 H200 芯片，此举意味着什么？",
@@ -118,17 +130,6 @@
           "time_info": "[00时14分 ~ 07时11分]"
         },
         {
-          "title": "特朗普现在很焦虑",
-          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时49分 ~ 11时50分]"
-        },
-        {
           "title": "泽连斯基回应特朗普：乌方愿举行选举",
           "url": "https://news.ifeng.com/c/8oxFNJttZN2",
           "source": "凤凰网",
@@ -185,6 +186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "特朗普发长文回击：自诩政绩空前，晒“满分”健康报告，斥责《纽约时报》为“人民公敌”",
+          "url": "https://flash.jin10.com/detail/20251210121528240800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "特朗普在宾夕法尼亚活动上称：我们有一个糟糕的美联储主席。将在美联储中进行大调整。",
@@ -304,6 +316,29 @@
           "time_info": "[03时39分 ~ 05时09分]"
         },
         {
+          "title": "美国企业界对特朗普执政表现评价不高",
+          "url": "https://www.toutiao.com/trending/7581666417361092614/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 12时32分]"
+        },
+        {
+          "title": "特朗普称泽连斯基赚走拜登3500亿美元",
+          "url": "https://www.toutiao.com/trending/7581084674962473014/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 12时32分]"
+        },
+        {
           "title": "泽连斯基回应特朗普：已准备好举行选举",
           "url": "https://news.ifeng.com/c/8oxUGggjWaR",
           "source": "凤凰网",
@@ -409,7 +444,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -533,17 +568,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
-        },
-        {
-          "title": "美国企业界对特朗普执政表现评价不高",
-          "url": "https://www.toutiao.com/trending/7581666417361092614/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
         }
       ]
     },
@@ -587,8 +611,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时10分 ~ 11时50分]"
+          "appearance_count": 7,
+          "time_info": "[07时10分 ~ 12时32分]"
         },
         {
           "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股收盘）",
@@ -816,8 +840,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时49分 ~ 11时50分]"
+          "appearance_count": 5,
+          "time_info": "[08时49分 ~ 12时32分]"
         },
         {
           "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
@@ -865,11 +889,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时49分 ~ 11时50分]"
+          "appearance_count": 5,
+          "time_info": "[08时49分 ~ 12时32分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -947,11 +972,12 @@
           "url": "https://flash.jin10.com/detail/20251210111107526800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 12时32分]"
         }
       ]
     }
