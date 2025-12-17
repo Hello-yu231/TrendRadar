@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T18:13:04.239817+08:00",
-  "total_titles_processed": 1727,
+  "generated_at": "2025-12-17T19:11:32.198506+08:00",
+  "total_titles_processed": 1827,
   "failed_sources": [],
   "trends": [
     {
@@ -126,8 +126,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时14分 ~ 18时13分]"
+          "appearance_count": 9,
+          "time_info": "[13时14分 ~ 19时11分]"
         },
         {
           "title": "特朗普下令封锁所有受制裁委油轮",
@@ -169,7 +169,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
