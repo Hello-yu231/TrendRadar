@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T15:18:12.916293+08:00",
-  "total_titles_processed": 1408,
+  "generated_at": "2026-01-06T16:17:21.710603+08:00",
+  "total_titles_processed": 1514,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -23,11 +23,12 @@
           "url": "https://news.ifeng.com/c/8pgdYCJGTs1",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时52分 ~ 15时18分]"
+          "appearance_count": 11,
+          "time_info": "[10时52分 ~ 16时17分]"
         },
         {
           "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
@@ -90,8 +91,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时51分 ~ 15时18分]"
+          "appearance_count": 12,
+          "time_info": "[08时51分 ~ 16时17分]"
         },
         {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
@@ -130,11 +131,12 @@
             16,
             21,
             29,
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时52分 ~ 15时18分]"
+          "appearance_count": 11,
+          "time_info": "[10时52分 ~ 16时17分]"
         },
         {
           "title": "特朗普向多个国家发出威胁",
@@ -147,8 +149,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时15分 ~ 15时18分]"
+          "appearance_count": 23,
+          "time_info": "[00时15分 ~ 16时17分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -192,11 +194,24 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时33分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[12时33分 ~ 16时17分]"
+        },
+        {
+          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
+          "url": "https://wallstreetcn.com/articles/3762615",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时16分 ~ 16时17分]"
         },
         {
           "title": "特朗普对印度买俄石油发出最后通牒",
@@ -232,15 +247,15 @@
           "time_info": "11时57分"
         },
         {
-          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
-          "url": "https://wallstreetcn.com/articles/3762615",
-          "source": "华尔街见闻",
+          "title": "丹麦首相警告特朗普涉格陵兰岛言论",
+          "url": "https://www.toutiao.com/trending/7592114928259285042/",
+          "source": "今日头条",
           "ranks": [
-            10
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时16分 ~ 15时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "据NBC：美国总统特朗普表示，美国可能会资助石油公司重建该国能源基础设施。",
@@ -398,11 +413,12 @@
           "source": "抖音",
           "ranks": [
             21,
-            29
+            29,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时57分 ~ 14时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 16时17分]"
         },
         {
           "title": "美国参议院多数党领袖John Thune：事先并不知道特朗普要袭击委内瑞拉。",
@@ -775,8 +791,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时10分 ~ 15时18分]"
+          "appearance_count": 13,
+          "time_info": "[07时10分 ~ 16时17分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -800,8 +816,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时10分 ~ 15时18分]"
+          "appearance_count": 13,
+          "time_info": "[07时10分 ~ 16时17分]"
         },
         {
           "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
@@ -969,8 +985,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时17分 ~ 15时18分]"
+          "appearance_count": 5,
+          "time_info": "[14时17分 ~ 16时17分]"
         },
         {
           "title": "伊朗要求国际原子能机构谴责针对伊朗核设施的犯罪行为",
@@ -1098,7 +1114,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -1107,11 +1123,12 @@
           "url": "https://www.cls.cn/detail/2248953",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 15时18分]"
+          "appearance_count": 3,
+          "time_info": "[15时17分 ~ 16时17分]"
         },
         {
           "title": "分析师：降息预期与避险需求推升金价 本周关注关键非农数据",
@@ -1191,11 +1208,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时52分 ~ 15时18分]"
+          "appearance_count": 11,
+          "time_info": "[10时52分 ~ 16时17分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
@@ -1291,7 +1309,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
