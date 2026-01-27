@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T20:23:36.535508+08:00",
-  "total_titles_processed": 1899,
+  "generated_at": "2026-01-27T21:39:36.772144+08:00",
+  "total_titles_processed": 2011,
   "failed_sources": [],
   "trends": [
     {
@@ -75,8 +75,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时12分 ~ 20时23分]"
+          "appearance_count": 14,
+          "time_info": "[07时12分 ~ 21时39分]"
         },
         {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
@@ -200,6 +200,18 @@
           "time_info": "08时55分"
         },
         {
+          "title": "美媒：特朗普一周内两次妥协",
+          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 21时39分]"
+        },
+        {
           "title": "特朗普：提高对韩国多种商品关税税率至25%",
           "url": "https://www.cls.cn/detail/2270499",
           "source": "财联社热门",
@@ -284,17 +296,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 05时14分]"
-        },
-        {
-          "title": "美媒：特朗普一周内两次妥协",
-          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 20时23分]"
         },
         {
           "title": "美国总统特朗普：明尼苏达州州长蒂姆·沃尔兹致电我，请求在明尼苏达州问题上携手合作。这是一次非常棒的通话，而且我们实际上似乎心有灵犀。",
@@ -808,7 +809,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 32,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -819,8 +820,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时12分 ~ 20时23分]"
+          "appearance_count": 14,
+          "time_info": "[07时12分 ~ 21时39分]"
         },
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -919,6 +920,18 @@
           "time_info": "[06时13分 ~ 07时12分]"
         },
         {
+          "title": "通用汽车第四季度净销售额和营收452.9亿美元，预估453.7亿美元。 第四季度调整后每股收益2.51美元，预估2.28美元。 通用汽车预计2026年净利润103亿美元至117亿美元。 通用汽车预计2026年调整后EBIT 130亿美元至150亿美元。 通用汽车预计2026年调整后每股收益11美元至13美元。 通用汽车预计2026年资本支出100亿美元至120亿美元。 通用汽车批准新的60亿美元股票回购授权。 通用汽车美股盘前涨1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3044761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 21时39分]"
+        },
+        {
           "title": "联合健康美股盘后跳水超9%，CVS跌超10%，投资者关注与医疗保健费率相关的报道。",
           "url": "https://wallstreetcn.com/livenews/3044203",
           "source": "华尔街见闻-快讯",
@@ -931,26 +944,26 @@
           "time_info": "[06时13分 ~ 07时12分]"
         },
         {
-          "title": "通用汽车第四季度净销售额和营收452.9亿美元，预估453.7亿美元。 第四季度调整后每股收益2.51美元，预估2.28美元。 通用汽车预计2026年净利润103亿美元至117亿美元。 通用汽车预计2026年调整后EBIT 130亿美元至150亿美元。 通用汽车预计2026年调整后每股收益11美元至13美元。 通用汽车预计2026年资本支出100亿美元至120亿美元。 通用汽车批准新的60亿美元股票回购授权。 通用汽车美股盘前涨1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3044761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
           "title": "通用汽车(GM.N)美股盘前涨幅扩大至6.3%，四季度核心利润高于预期。",
           "url": "https://flash.jin10.com/detail/20260127193856675800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
+        },
+        {
+          "title": "康宁美股盘前涨超7%，此前CNBC报道称，Meta准备向康宁公司支付高达60亿美元用于购买光纤电缆。",
+          "url": "https://wallstreetcn.com/livenews/3044789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "通用汽车(GM.N)美股股价抹去跌幅，财报发布后上涨1.4%。",
@@ -959,9 +972,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
+        },
+        {
+          "title": "波音四季度营收239.5亿美元，预估225.8亿美元。 四季度核心每股收益9.92美元。 四季度调整后自由现金流3.75亿美元，预估2.719亿美元。 波音美股盘前涨1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3044785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "通用汽车(GM.N)美股盘前下跌1.1%。",
@@ -970,7 +994,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -995,6 +1019,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "波音(BA.N)美股盘前抹去涨幅，现跌1.5%。",
+          "url": "https://flash.jin10.com/detail/20260127204911496800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "在美上市韩国ETF美股盘后跌幅扩大至1%，特朗普突然宣布将韩国商品的关税提高至25%，称韩国国会尚未通过与美国的贸易协定。",
@@ -1036,9 +1071,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
+        },
+        {
+          "title": "康宁(GLW.N)美股盘前涨6.5%，此前有报道称，Meta公司达成协议，将向该公司支付高达60亿美元，用于在人工智能数据中心中采购光纤电缆。",
+          "url": "https://flash.jin10.com/detail/20260127204317752800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
+          "title": "美国航空第四季度调整后客运营收126.6亿美元，预期127.6亿美元。 第四季度调整后每股收益16美分，预估34美分。 美国航空预计2026年调整后每股收益1.7-2.7美元，市场预估2.01美元。 美国航空预计2026年资本支出约为40亿至45亿美元，市场预估41.7亿美元。 美国航空预计2027年资本支出约为45亿美元。 美国航空美股盘前跌3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3044771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "联合健康四季度营收1132.2亿美元，预估1138.7亿美元。 四季度经调整后每股收益2.11美元，预估2.1美元。 联合健康预计2026年全年经调整后每股收益在17.75美元上方，市场预估17.69美元。 联合健康美股盘前跌近13%。",
@@ -1047,7 +1104,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -1063,6 +1120,17 @@
           "time_info": "06时13分"
         },
         {
+          "title": "雷神技术四季度调整后销售额242.4亿美元， 预估226.3亿美元。 四季度调整后每股收益1.55美元，预估1.47美元。 雷神技术预计2026年调整后销售额920亿美元-930亿美元，市场预估924.3亿美元。 雷神技术预计2026年调整后每股收益6.6-6.8美元，市场预估6.7美元。 雷神技术美股盘前涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3044769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "美股早盘在财报利好与政策风险博弈中走高",
           "url": "https://flash.jin10.com/detail/20260126232532513800",
           "source": "金十数据",
@@ -1072,6 +1140,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "波音(BA.N)美股盘前涨2.2%，第四财季调整后自由现金流超出预期。",
+          "url": "https://flash.jin10.com/detail/20260127203505463800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "美股期货走高，纳斯达克100指数期货涨0.5%，标普500指数期货涨0.2%。",
@@ -1158,7 +1237,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -1189,6 +1268,30 @@
           "time_info": "[00时20分 ~ 01时21分]"
         },
         {
+          "title": "伊朗：将以更强硬手段回应侵略",
+          "url": "https://www.toutiao.com/trending/7599858146172997183/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时39分]"
+        },
+        {
+          "title": "以色列女子看电视，发现自己“死”在伊朗，照片出现在以媒报道中",
+          "url": "https://news.ifeng.com/c/8qG8qjHMZc1",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时39分]"
+        },
+        {
           "title": "伊朗外交部：武装力量将全力应对任何侵犯",
           "url": "https://wallstreetcn.com/livenews/3044206",
           "source": "华尔街见闻-快讯",
@@ -1213,6 +1316,17 @@
           "time_info": "[12时08分 ~ 13时19分]"
         },
         {
+          "title": "美航母打击群逼近，伊朗：不回避谈判，但对侵略将果断回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32471237",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 21时39分]"
+        },
+        {
           "title": "黎巴嫩真主党：不会对针对伊朗的军事行动袖手旁观",
           "url": "https://wallstreetcn.com/livenews/3044148",
           "source": "华尔街见闻-快讯",
@@ -1223,40 +1337,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时14分]"
-        },
-        {
-          "title": "伊朗：将以更强硬手段回应侵略",
-          "url": "https://www.toutiao.com/trending/7599858146172997183/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时23分]"
-        },
-        {
-          "title": "以色列女子看电视，发现自己“死”在伊朗，照片出现在以媒报道中",
-          "url": "https://news.ifeng.com/c/8qG8qjHMZc1",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时23分]"
-        },
-        {
-          "title": "美航母打击群逼近，伊朗：不回避谈判，但对侵略将果断回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32471237",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
         },
         {
           "title": "美国官员：如果伊朗希望与美方联系，华盛顿“敞开大门”。",
@@ -1320,7 +1400,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -1353,7 +1433,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -1658,7 +1738,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "美元指数短线下挫 非美货币走高",
@@ -1670,6 +1750,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
+        },
+        {
+          "title": "美元指数DXY日内跌超0.50%，现报96.55。",
+          "url": "https://flash.jin10.com/detail/20260127210239510800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "美元指数26日下跌",
@@ -1695,6 +1786,17 @@
           "time_info": "18时16分"
         },
         {
+          "title": "彭博美元即期指数触及2022年3月以来最弱水平。",
+          "url": "https://wallstreetcn.com/livenews/3044792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "非洲股市收盘播报｜周一（1月26日），南非富时/JSE非洲领先40可交易指数收涨2.06%，刷新收盘历史高位至11.65万点上方，2026年迄今累计上涨8.09%、同期本币南非兰特兑美元涨3.65%、现货黄金涨17.99%。",
           "url": "https://wallstreetcn.com/livenews/3044099",
           "source": "华尔街见闻-快讯",
@@ -1704,6 +1806,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "彭博美元即期指数触及2022年3月以来最弱水平。",
+          "url": "https://flash.jin10.com/detail/20260127205258899800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "美元指数DXY失守97，日内跌幅0.48%。",
