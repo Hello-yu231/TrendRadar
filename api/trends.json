@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T07:21:58.275829+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-02-12T09:04:44.172059+08:00",
+  "total_titles_processed": 847,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时48分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[01时48分 ~ 09时04分]"
         },
         {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
@@ -74,7 +75,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -367,7 +368,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -583,11 +584,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 07时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 09时04分]"
         },
         {
           "title": "金十图示：2026年02月11日（周三）美股热门股票行情一览（美股盘中）",
@@ -618,7 +620,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -651,11 +653,12 @@
           "url": "https://www.cls.cn/detail/2287796",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 09时04分]"
         },
         {
           "title": "生物技术公司Viking Therapeutics股价在美股盘后交易中上涨9.1%。 该公司宣布，计划在今年第三季度将其口服肥胖症治疗药物VK2735推向3期临床试验。 尽管第四季度亏损超预期（主要受研发支出激增驱动），但其口服药物的进度优势抵消了财务压力。",
@@ -664,7 +667,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         }
@@ -693,11 +696,12 @@
             5,
             8,
             6,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 07时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 09时04分]"
         },
         {
           "title": "伊朗总统：不寻求核武器 愿接受核查",
@@ -812,6 +816,18 @@
           "time_info": "[01时48分 ~ 06时20分]"
         },
         {
+          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 09时04分]"
+        },
+        {
           "title": "非农就业意外强劲，美股指集体高开，标普500创新高，美元指数短线走高，美债承压，黄金涨幅收窄",
           "url": "https://wallstreetcn.com/articles/3765486",
           "source": "华尔街见闻",
@@ -821,17 +837,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 00时52分]"
-        },
-        {
-          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3765486",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
         },
         {
           "title": "美国财长贝森特：2025年GDP增速可能达到3%。 预计制造业就业人口将在未来几个月回升。 总统特朗普专注于住房市场。 抵押贷款利率和10年期美债收益率都在下跌。",
@@ -861,8 +866,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "谷歌的母公司 Alphabet 拟发行百年期债券，科技圈 30 年来首次，如何解读？",
+          "url": "https://www.zhihu.com/question/2004856222604551649",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
         {
           "title": "边问边买，谷歌将AI购物功能嵌入搜索与Gemini",
           "url": "https://wallstreetcn.com/livenews/3053878",
