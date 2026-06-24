@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-25T01:51:53.765412+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-25T03:24:22.880860+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "据Politico：特朗普政府官员已告知国会山共和党关键人物，预计本周结束前将提交一份关于伊朗战事相关费用的追加拨款请求。",
-          "url": "https://flash.jin10.com/detail/20260625013708420800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
           "url": "https://news.ifeng.com/c/8uDgRGX21RF",
           "source": "凤凰网",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时24分]"
+        },
+        {
+          "title": "据Politico：特朗普政府官员已告知国会山共和党关键人物，预计本周结束前将提交一份关于伊朗战事相关费用的追加拨款请求。",
+          "url": "https://flash.jin10.com/detail/20260625013708420800",
+          "source": "金十数据",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -37,8 +37,30 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时24分]"
+        },
+        {
+          "title": "美国总统特朗普：与国会参议院共和党成员的午餐会情况不错。 （兜售）石油价格（下跌）和就业数据。 伊朗同意我想要的一切。",
+          "url": "https://wallstreetcn.com/livenews/3124195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时51分"
+          "time_info": "03时24分"
+        },
+        {
+          "title": "特朗普：伊朗同意我提出的所有要求",
+          "url": "https://flash.jin10.com/detail/20260625030201081800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         },
         {
           "title": "美国总统特朗普在国会山宣称：伊朗做出重大让步。 进展非常顺利。",
@@ -72,12 +94,95 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "据Punchbowl：一位共和党参议员形容特朗普的这次会议“更像是总统的一次发泄会”。",
+          "url": "https://flash.jin10.com/detail/20260625022804523800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普在与共和党议员进行午宴时，“90%”的时间都在抨击丽莎·穆尔科斯基、比尔·卡西迪和米奇·麦康奈尔这些“名义上的共和党人”（RINO）。",
+          "url": "https://flash.jin10.com/detail/20260625022715934800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "谷歌将Gemini 3.5 Pro发布日期推后至7月份。 因为他们还在花更多时间收集早期测试者的反馈并调整模型。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3124199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "STT与塔塔通信德里数据中心起火：客户担忧数十年数据丢失，谷歌云受波及",
+          "url": "https://wallstreetcn.com/livenews/3124168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "报道：谷歌另外两名主要的AI员工恐将跳槽至Anthropic",
+          "url": "https://wallstreetcn.com/livenews/3124193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "谷歌(GOOG.O)跌幅扩大至0.8%，消息称谷歌将Gemini 3.5 Pro大模型发布时间推迟至7月，因为他们还在花更多时间收集早期测试者的反馈并调整模型。",
+          "url": "https://flash.jin10.com/detail/20260625024331473800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "谷歌又有两名重量级AI人才即将转投Anthropic",
+          "url": "https://flash.jin10.com/detail/20260625022949974800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
@@ -87,8 +192,31 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时24分]"
+        },
+        {
+          "title": "伊朗：签谅解备忘录表明“美国战败”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%AD%BE%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E8%A1%A8%E6%98%8E%E2%80%9C%E7%BE%8E%E5%9B%BD%E6%88%98%E8%B4%A5%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时24分]"
+        },
+        {
+          "title": "天然气出口国论坛秘书长菲利普：随着伊朗战争结束，天然气需求将在第三季度开始回升。",
+          "url": "https://flash.jin10.com/detail/20260625025346023800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时51分"
+          "time_info": "03时24分"
         },
         {
           "title": "铝价回归伊朗战争前水平，美元走强和海湾供应恢复希望",
@@ -96,17 +224,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "伊朗：签谅解备忘录表明“美国战败”",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%AD%BE%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E8%A1%A8%E6%98%8E%E2%80%9C%E7%BE%8E%E5%9B%BD%E6%88%98%E8%B4%A5%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            23
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -137,53 +254,38 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时24分]"
         },
         {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
           "url": "https://www.zhihu.com/question/2052869201178652833",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时24分]"
         },
         {
           "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
           "url": "https://www.cls.cn/detail/2408279",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "STT与塔塔通信德里数据中心起火：客户担忧数十年数据丢失，谷歌云受波及",
-          "url": "https://wallstreetcn.com/livenews/3124168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时24分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "现货黄金价格跌破4000美元大关",
@@ -195,6 +297,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "受美元走强及加息预期影响，金价收于4000美元下方",
+          "url": "https://flash.jin10.com/detail/20260625023404741800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         }
       ]
     },
@@ -210,8 +323,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时24分]"
         }
       ]
     }
