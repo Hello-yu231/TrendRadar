@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-26T19:37:19.900280+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2026-06-26T21:56:04.951976+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
+          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时46分 ~ 21时56分]"
+        },
         {
           "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
           "url": "https://www.zhihu.com/question/2053109056487822677",
@@ -32,18 +44,6 @@
           "time_info": "16时46分"
         },
         {
-          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
-          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时46分 ~ 19时37分]"
-        },
-        {
           "title": "在伊华商：战争改变伊朗民众对中国的看法",
           "url": "https://news.ifeng.com/c/8uGjlCe4dNV",
           "source": "凤凰网",
@@ -52,8 +52,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时46分 ~ 19时37分]"
+          "appearance_count": 5,
+          "time_info": "[16时46分 ~ 21时56分]"
+        },
+        {
+          "title": "霍尔木兹海峡再起波澜：伊朗被曝谋求一年400亿“买路钱”，船只遇袭后疏散行动暂停",
+          "url": "https://wallstreetcn.com/articles/3775543",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时36分 ~ 21时56分]"
         },
         {
           "title": "霍尔木兹波澜又起！有船只遭袭、疏散行动暂停 伊朗再发警告",
@@ -65,17 +76,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时02分 ~ 16时46分]"
-        },
-        {
-          "title": "霍尔木兹海峡再起波澜：伊朗被曝谋求一年400亿“买路钱”，船只遇袭后疏散行动暂停",
-          "url": "https://wallstreetcn.com/articles/3775543",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时36分 ~ 19时37分]"
         },
         {
           "title": "伊朗民众：战争让人们重新理解了“拒绝屈辱”",
@@ -106,7 +106,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -172,9 +172,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
+        },
+        {
+          "title": "据阿联酋国家通讯社：阿联酋外长向伊朗外长强调，必须保护霍尔木兹海峡等海域的海上航道与航行自由。",
+          "url": "https://flash.jin10.com/detail/20260626214248710800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "美国官员：伊朗袭击了霍尔木兹海峡的一艘船。（华尔街日报）",
@@ -186,6 +197,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "伊朗和美国开设沟通渠道，就霍尔木兹海峡进行协调。美伊霍尔木兹沟通渠道将防止军事升级。（伊朗Press TV）",
+          "url": "https://wallstreetcn.com/livenews/3125327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "国际原子能机构总干事格罗西：我们希望尽快前往伊朗。",
@@ -221,13 +243,24 @@
           "time_info": "13时02分"
         },
         {
+          "title": "据阿联酋国家通讯社：阿联酋外交部长在与伊朗外长的电话交谈中强调，必须全面遵守美伊协议的条款。",
+          "url": "https://flash.jin10.com/detail/20260626214023980800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
           "title": "伊朗外交部：海合会与美国联合声明“挑衅且不负责任”",
           "url": "https://wallstreetcn.com/livenews/3125265",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -243,6 +276,28 @@
           "time_info": "00时18分"
         },
         {
+          "title": "据阿联酋国家通讯社：阿联酋外长接到伊朗外长电话，讨论最新的地区动态。",
+          "url": "https://flash.jin10.com/detail/20260626213853229800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
+          "title": "伊朗外交部谴责美国与海合会联合声明",
+          "url": "https://wallstreetcn.com/livenews/3125318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
           "title": "美媒：伊朗袭击货船，考验美伊停火协议",
           "url": "https://flash.jin10.com/detail/20260626021302970800",
           "source": "金十数据",
@@ -252,6 +307,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "据伊朗国家媒体报道，22名被美国扣押的伊朗油轮船员被移交至伊朗驻巴基斯坦卡拉奇领事馆。",
+          "url": "https://flash.jin10.com/detail/20260626213814505800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "伊朗阿曼外长通话讨论霍尔木兹海峡问题",
@@ -282,7 +348,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -296,6 +362,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "阿联酋向伊朗表示，严肃的外交途径才是化解当前危机的首选方式。",
+          "url": "https://flash.jin10.com/detail/20260626213257886800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "美媒：伊朗估计每年海峡服务收费将达400亿美元",
@@ -323,7 +400,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
@@ -348,6 +425,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时17分 ~ 06时15分]"
+        },
+        {
+          "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
+          "url": "https://news.ifeng.com/c/8uHCasu8tQC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "特朗普称将用伊朗的钱买美国农产品",
@@ -471,7 +559,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -622,8 +710,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "科技股拖累全球股市，美股盘前半导体股普跌，美光跌近6%，金银走高，油价跌近4%",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时36分 ~ 21时56分]"
+        },
         {
           "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
           "url": "https://www.cls.cn/detail/2409639",
@@ -664,15 +764,15 @@
           "time_info": "[08时03分 ~ 16时46分]"
         },
         {
-          "title": "科技股拖累全球股市，美股盘前半导体股普跌，美光跌近6%，金银走高，油价跌近4%",
-          "url": "https://wallstreetcn.com/articles/3775571",
-          "source": "华尔街见闻",
+          "title": "美股盘初：纳指跌1.1%，费城半导体指数跌超4%，美光科技跌约6%",
+          "url": "https://wallstreetcn.com/livenews/3125341",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时36分 ~ 19时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "Rocket Lab美股盘后涨幅扩大至5%，该公司赢得一份NASA合同。",
@@ -711,6 +811,17 @@
           "time_info": "[04时55分 ~ 06时15分]"
         },
         {
+          "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2410602",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
+        },
+        {
           "title": "金十图示：2026年06月25日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260626040602916800",
           "source": "金十数据",
@@ -733,6 +844,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时55分 ~ 06时15分]"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3125328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
+          "title": "金十图示：2026年06月26日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260626214134858800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "周四（6月25日），美股存储芯片与硬件供应链指数上涨11.85%，报271.70点，跳空高开之后持续高位震荡，逼近6月22日所创收盘历史最高位274.95点。 成分股闪迪收涨21.97%，美光科技涨15.74%，创5月26日以来最佳单日表现，应用材料涨13.42%，泰瑞达涨10.48%，拉姆研究涨7.21%，西部数据、希捷科技至少涨3.23%，Rambus跌0.67%。",
@@ -815,7 +948,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI倾向于等到2027年再IPO。（纽约时报）",
@@ -851,6 +984,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时55分 ~ 06时15分]"
+        },
+        {
+          "title": "曝 OpenAI GPT-5.6 系列即将登场，可能带来哪些技术突破和影响？",
+          "url": "https://www.zhihu.com/question/2051692980243894309",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "根据销售AI账单审计工具的公司Vaudit的数据，由于计费错误，一些客户支付给Anthropic和OpenAI产品的费用可能高于实际应支付的金额。（The Information）",
@@ -993,6 +1137,19 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时02分 ~ 21时56分]"
+        },
+        {
           "title": "金价持续下跌",
           "url": "https://www.douyin.com/hot/2547979",
           "source": "抖音",
@@ -1000,18 +1157,6 @@
             17,
             18,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时02分 ~ 19时37分]"
-        },
-        {
-          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
           ],
           "is_new": false,
           "appearance_count": 4,
