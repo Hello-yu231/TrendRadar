@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T16:57:50.718800+08:00",
-  "total_titles_processed": 1342,
+  "generated_at": "2026-08-11T17:52:17.184425+08:00",
+  "total_titles_processed": 1441,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时40分 ~ 07时24分]"
+        },
+        {
+          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
+          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时46分 ~ 17时52分]"
         },
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -45,17 +56,6 @@
           "time_info": "[00时40分 ~ 10时59分]"
         },
         {
-          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
-          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时46分 ~ 16时57分]"
-        },
-        {
           "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
           "url": "https://wallstreetcn.com/articles/3779034",
           "source": "华尔街见闻",
@@ -66,6 +66,31 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时40分 ~ 07时24分]"
+        },
+        {
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时58分 ~ 17时52分]"
+        },
+        {
+          "title": "特朗普：美军已100%控制霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时46分 ~ 17时52分]"
         },
         {
           "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
@@ -105,29 +130,15 @@
           "time_info": "[00时40分 ~ 05时31分]"
         },
         {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
+          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时58分 ~ 16时57分]"
-        },
-        {
-          "title": "特朗普：美军已100%控制霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时46分 ~ 16时57分]"
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 17时52分]"
         },
         {
           "title": "据Axios：特朗普政府正在制定一项行政命令，计划将儿童麻疹、腮腺炎和风疹联合疫苗拆分为三针，并要求在不同医疗就诊中分别接种。",
@@ -141,15 +152,18 @@
           "time_info": "02时40分"
         },
         {
-          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
-          "url": "https://news.ifeng.com/c/8vUFosuJumv",
-          "source": "凤凰网",
+          "title": "和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔",
+          "url": "https://www.cls.cn/detail/2450709",
+          "source": "财联社热门",
           "ranks": [
-            4
+            12,
+            11,
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 17时52分]"
         },
         {
           "title": "特朗普政府撤销超17.5万份外国人签证",
@@ -232,19 +246,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时24分]"
-        },
-        {
-          "title": "和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔",
-          "url": "https://www.cls.cn/detail/2450709",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 16时57分]"
         },
         {
           "title": "特朗普称美军已“100%控制”霍尔木兹海峡 | 环球市场",
@@ -361,7 +362,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -688,8 +689,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时46分 ~ 16时57分]"
+          "appearance_count": 9,
+          "time_info": "[08时46分 ~ 17时52分]"
         },
         {
           "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
@@ -699,8 +700,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时58分 ~ 16时57分]"
+          "appearance_count": 8,
+          "time_info": "[10时58分 ~ 17时52分]"
+        },
+        {
+          "title": "伊朗更强硬的强硬派来了",
+          "url": "https://news.ifeng.com/c/8vUncUovk9A",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时58分 ~ 17时52分]"
         },
         {
           "title": "伊朗的5个条件，美国是否会照单全收？",
@@ -724,18 +737,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时58分 ~ 12时14分]"
-        },
-        {
-          "title": "伊朗更强硬的强硬派来了",
-          "url": "https://news.ifeng.com/c/8vUncUovk9A",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时58分 ~ 16时57分]"
         },
         {
           "title": "只闻其事不见其人，伊朗最高领袖为何“隐身”？",
@@ -939,6 +940,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时13分 ~ 13时45分]"
+        },
+        {
+          "title": "伊朗警告乌克兰：不赔偿就动手",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%EF%BC%9A%E4%B8%8D%E8%B5%94%E5%81%BF%E5%B0%B1%E5%8A%A8%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 17时52分]"
         },
         {
           "title": "伊朗与巴基斯坦外长通电话，讨论霍尔木兹海峡谈判与防务协议。",
@@ -1148,18 +1161,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "伊朗警告乌克兰：不赔偿就动手",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%EF%BC%9A%E4%B8%8D%E8%B5%94%E5%81%BF%E5%B0%B1%E5%8A%A8%E6%89%8B",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         }
@@ -1170,6 +1172,17 @@
       "match_count": 16,
       "titles": [
         {
+          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时46分 ~ 17时52分]"
+        },
+        {
           "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
           "url": "https://wallstreetcn.com/articles/3779052",
           "source": "华尔街见闻",
@@ -1179,17 +1192,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时40分 ~ 05时31分]"
-        },
-        {
-          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时46分 ~ 16时57分]"
         },
         {
           "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
