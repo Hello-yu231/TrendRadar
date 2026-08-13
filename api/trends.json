@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T15:08:01.144010+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2026-08-13T17:01:55.019346+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
@@ -98,11 +98,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时21分 ~ 15时08分]"
+          "appearance_count": 5,
+          "time_info": "[11时21分 ~ 17时01分]"
         },
         {
           "title": "白宫：特朗普签署备忘录，授权美国执法部门使用网络工具打击在外国司法管辖区活动的犯罪组织。",
@@ -250,6 +251,28 @@
           "time_info": "[00时44分 ~ 01时48分]"
         },
         {
+          "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vYdZtyCxYa",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "美新闻机构起诉特朗普",
+          "url": "https://www.douyin.com/hot/2607917",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
           "title": "白宫新闻秘书辞职，特朗普中期选举前痛失“最锋利的话筒”",
           "url": "https://flash.jin10.com/detail/20260813064543456800",
           "source": "金十数据",
@@ -294,6 +317,28 @@
           "time_info": "04时31分"
         },
         {
+          "title": "特朗普：我想谋求第三任期，但美国法律太严",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33769936",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "特朗普净支持率跌至历史低点 中期选举压力上升",
+          "url": "https://flash.jin10.com/detail/20260813161727173800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
           "title": "伊朗：美国国会应调查特朗普资产的增加情况",
           "url": "https://flash.jin10.com/detail/20260812233824579800",
           "source": "金十数据",
@@ -330,7 +375,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
@@ -341,8 +386,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时28分 ~ 15时08分]"
+          "appearance_count": 8,
+          "time_info": "[07时28分 ~ 17时01分]"
         },
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -354,8 +399,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时28分 ~ 15时08分]"
+          "appearance_count": 10,
+          "time_info": "[06时28分 ~ 17时01分]"
         },
         {
           "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
@@ -454,6 +499,17 @@
           "time_info": "[08时55分 ~ 08时56分]"
         },
         {
+          "title": "李大霄提醒警惕美股泡沫爆破",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E6%8F%90%E9%86%92%E8%AD%A6%E6%83%95%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E7%88%86%E7%A0%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
           "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260813003439020800",
           "source": "金十数据",
@@ -490,7 +546,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗目前经济状况如何？专家：正面临两大困境",
@@ -510,11 +566,23 @@
           "ranks": [
             10,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时55分 ~ 15时08分]"
+          "appearance_count": 7,
+          "time_info": "[08时55分 ~ 17时01分]"
+        },
+        {
+          "title": "伊朗外长向美国官员喊话：警惕虚假情报和误判",
+          "url": "https://flash.jin10.com/detail/20260813162731681800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "伊朗：目前使用武器都是自主研发的",
@@ -591,6 +659,17 @@
           "time_info": "[04时31分 ~ 05时33分]"
         },
         {
+          "title": "伊朗将正式加入金砖国家新开发银行",
+          "url": "https://news.ifeng.com/c/8vYalXCyC9Z",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
           "title": "据伊朗媒体Fars News：也门胡塞武装对沙特雇佣军在摩卡港的阵地发动了无人机袭击。",
           "url": "https://flash.jin10.com/detail/20260813033525851800",
           "source": "金十数据",
@@ -646,11 +725,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时28分 ~ 15时08分]"
+          "appearance_count": 8,
+          "time_info": "[07时28分 ~ 17时01分]"
         },
         {
           "title": "消息人士：谷歌重组部门全力发展Gemini",
@@ -785,11 +865,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时21分 ~ 15时08分]"
+          "appearance_count": 5,
+          "time_info": "[11时21分 ~ 17时01分]"
         },
         {
           "title": "温和通胀数据及10年期国债拍卖后，美债收盘涨跌互现",
